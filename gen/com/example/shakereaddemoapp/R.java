@@ -24,6 +24,7 @@ public final class R {
         public static final int data_input_field=0x7f020000;
         public static final int grid_line_black=0x7f020001;
         public static final int ic_launcher=0x7f020002;
+        public static final int white_button=0x7f020003;
     }
     public static final class id {
         public static final int action_settings=0x7f080010;
